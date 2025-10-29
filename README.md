@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm **@Catmakura**!\
+Now, I am ccurrently working on **NitroCat** in github.So,I am learning html,javascript and css!\
+📫 How to reach me:comming soon...sorry\
+I am currently looking for collaborators.
+
 
 <!--
 **Catmakura/Catmakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
